@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8FDFF5F5-9C79-47FF-BD47-E54CF17A61B4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8757300-CDF1-4083-B38C-A6E566AF4C32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calendar/CalendarApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99ECF2A9-7549-4029-8546-931D115ABB9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calendar/CalendarApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3699C18-049E-482C-A1F2-0405403E2EE6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calendar/CalendarApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E63ACB7F-F5FF-4B0A-BD2A-02F97BE525DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calendar/CalendarApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "CalendarApp"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calendar/DateHolder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DateHolder"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 54b65bf3312ab2ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Calendar.DateHolder.date : Foundation.Date"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 62d6ff1b46e39517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.date.getter : Foundation.Date"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 7aab5431befca123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.date.setter : Foundation.Date"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 29f7e632ba65d814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.date.modify : Foundation.Date"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - c770994421cc9e23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.date.modify : Foundation.Date with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - a7258d5f161fae3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.$date.getter : Combine.Published&lt;Foundation.Date&gt;.Publisher"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 512eb08db0ef1e46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.$date.setter : Combine.Published&lt;Foundation.Date&gt;.Publisher"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - b357d582215b71d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.$date.modify : Combine.Published&lt;Foundation.Date&gt;.Publisher"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 140ed32214103762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.$date.modify : Combine.Published&lt;Foundation.Date&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "5BAE22E8-6B5B-474B-90D4-2AF5D5FBE39C - 972a8e56e52cb657"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calendar.DateHolder.init() -&gt; Calendar.DateHolder"
+                  moduleName = "Calendar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beardmikle/Documents/ios/Calendar/Calendar/DateHolder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
